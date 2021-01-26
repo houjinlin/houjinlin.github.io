@@ -18,11 +18,35 @@
       </categories>
   </entry>
   <entry>
+    <title>个人简历公众号制作第一天</title>
+    <url>/2021/01/26/%E4%B8%AA%E4%BA%BA%E7%AE%80%E5%8E%86%E5%85%AC%E4%BC%97%E5%8F%B7%E5%88%B6%E4%BD%9C/</url>
+    <content><![CDATA[<h3 id="技术"><a href="#技术" class="headerlink" title="技术"></a>技术</h3><hr>
+<h2 id="主要使用阿里云的服务器和云数据库"><a href="#主要使用阿里云的服务器和云数据库" class="headerlink" title=" 主要使用阿里云的服务器和云数据库"></a> 主要使用阿里云的服务器和云数据库</h2>]]></content>
+      <categories>
+        <category>案例</category>
+      </categories>
+      <tags>
+        <tag>前沿小项目</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>认识自我</title>
+    <url>/2021/01/26/%E8%AE%A4%E8%AF%86%E8%87%AA%E6%88%91/</url>
+    <content><![CDATA[<hr>
+<p>  感觉自己是一个特别自卑的人，但我原来不是，自从上了大二后向一个女生表白失败后彻底陷入谷底，我可以为了对方付出一切，什么都可以做为了对方而改变。<br>  但她好无情。从那开始变的沉默不喜欢说话，跑步能给我带来自信，听歌能让我逃避现实。<br>  这样我也能好受。刚上大学的我很热情，和别人打招呼都没人理得，就那么现实吗！我也就变了，遇到人也不打招呼，人人都这样了吧！<br>  刚上大学就被一个大四的学长在网上耍的团团转，感觉自己好像被骗了几个亿的感觉，自己在网上说话也从那开始就变味了，艹。<br>  人就是要变的吧！我感觉我是一个非常纠结的人，有时很在乎，有时又不在意，做某件事情就该是尽力局的！我从来没有过！<br>  我从小学就开始玩游戏 差点被劝退  高考前几天还在泡网吧 我服了我自己了  我也没谈过恋爱 怕辜负 和高中玩的好的女生说 ，我想的有点多<br>  大家都是玩玩吗? 人总要面对现实。不想说了。有时间继续反思</p>
+<hr>
+]]></content>
+      <categories>
+        <category>个人篇</category>
+      </categories>
+      <tags>
+        <tag>个人反思</tag>
+      </tags>
+  </entry>
+  <entry>
     <title>豆瓣电影Top250数据分析</title>
     <url>/2021/01/26/%E8%B1%86%E7%93%A3%E7%94%B5%E5%BD%B1Top250%E6%95%B0%E6%8D%AE%E5%88%86%E6%9E%90/</url>
-    <content><![CDATA[<a id="more"></a>
-
-<h2 id="技术概括及主要代码"><a href="#技术概括及主要代码" class="headerlink" title="技术概括及主要代码"></a>技术概括及主要代码</h2><h3 id="技术步骤"><a href="#技术步骤" class="headerlink" title="技术步骤"></a>技术步骤</h3><hr>
+    <content><![CDATA[<h2 id="技术概括及主要代码"><a href="#技术概括及主要代码" class="headerlink" title="技术概括及主要代码"></a>技术概括及主要代码</h2><h3 id="技术步骤"><a href="#技术步骤" class="headerlink" title="技术步骤"></a>技术步骤</h3><hr>
 <blockquote>
 <p>一、通过 urllib.request 模块进行网页的爬取。二、bs4中的BeautifulSoup 进行网页的解析。<br>三、通过re正则模块网页中相应的内容并提取。四、通过xlwt模块先将数据存储到excel表中。<br>五、通过sqlite3设计创建一张表并将数据存入。六、找一个网页模板并修改<br>七、从数据库中读数据并显示在网页上，表格涉及使用到BootStrap进行了简单的渲染<br>八、数据分析使用到Echarts框架。九、网页展示用flask框架进行展示<br>十、词云的使用</p>
 </blockquote>
